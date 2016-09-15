@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaEEDesignPatterns:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaEEDesignPatterns_war</output-path>
+    <root id="archive" name="JavaEEDesignPatterns_war.war">
+      <element id="artifact" artifact-name="JavaEEDesignPatterns:war exploded" />
+    </root>
+  </artifact>
+</component>
