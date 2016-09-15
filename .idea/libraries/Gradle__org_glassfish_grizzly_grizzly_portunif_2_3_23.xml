@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.grizzly:grizzly-portunif:2.3.23">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-portunif/2.3.23/fc2ec181e71fc188519077d22472528d2af7d626/grizzly-portunif-2.3.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.grizzly/grizzly-portunif/2.3.23/b6950501ac35d38d618d21542297abbdbd791ddc/grizzly-portunif-2.3.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

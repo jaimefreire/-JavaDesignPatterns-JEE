@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : JavaEEDesignPatterns.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaEEDesignPatterns</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="JavaEEDesignPatterns.war">
+      <element id="javaee-facet-resources" facet="JavaEEDesignPatterns_main/web/Web Gradle : JavaEEDesignPatterns.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaEEDesignPatterns_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.21" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/JavaEEDesignPatterns/exploded/JavaEEDesignPatterns.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
