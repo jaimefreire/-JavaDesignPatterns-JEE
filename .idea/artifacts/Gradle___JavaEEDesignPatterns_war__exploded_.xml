@@ -13,6 +13,35 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.21" />
+          <element id="library" level="project" name="Gradle: org.glassfish.main.common:glassfish-naming:4.1.1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.main.common:glassfish-api:4.1.1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.main.common:internal-api:4.1.1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.main.common:common-util:4.1.1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-utils:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-api:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:config-types:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-core:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-config:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-locator:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:hk2-runlevel:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2:class-model:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.main.common:scattered-archive-api:4.1.1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.main.grizzly:nucleus-grizzly-all:4.1.1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.external:management-api:3.2.1-b002" />
+          <element id="library" level="project" name="Gradle: org.glassfish.main.admin:config-api:4.1.1" />
+          <element id="library" level="project" name="Gradle: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2.external:aopalliance-repackaged:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.jvnet:tiger-types:1.4" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2.external:bean-validator:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2.external:javax.inject:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.javassist:javassist:3.18.1-GA" />
+          <element id="library" level="project" name="Gradle: org.glassfish.hk2.external:asm-all-repackaged:2.4.0-b31" />
+          <element id="library" level="project" name="Gradle: org.glassfish.grizzly:grizzly-framework:2.3.23" />
+          <element id="library" level="project" name="Gradle: org.glassfish.grizzly:grizzly-portunif:2.3.23" />
+          <element id="library" level="project" name="Gradle: org.glassfish.grizzly:grizzly-http:2.3.23" />
+          <element id="library" level="project" name="Gradle: org.glassfish.grizzly:grizzly-http-server:2.3.23" />
+          <element id="library" level="project" name="Gradle: org.glassfish.main.grizzly:grizzly-config:4.1.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">

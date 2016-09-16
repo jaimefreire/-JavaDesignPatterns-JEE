@@ -1,8 +1,20 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="JavaEEDesignPatterns:war">
+  <artifact type="war" build-on-make="true" name="JavaEEDesignPatterns:war">
     <output-path>$PROJECT_DIR$/out/artifacts/JavaEEDesignPatterns_war</output-path>
     <root id="archive" name="JavaEEDesignPatterns_war.war">
-      <element id="artifact" artifact-name="JavaEEDesignPatterns:war exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/META-INF/beans.xml" />
+      </element>
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaEEDesignPatterns_main" />
+        </element>
+        <element id="directory" name="jsps" />
+        <element id="directory" name="lib" />
+        <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/web/index.jsp" />
     </root>
   </artifact>
 </component>

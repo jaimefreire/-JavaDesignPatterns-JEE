@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaEEDesignPatterns.iml" filepath="$PROJECT_DIR$/JavaEEDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaEEDesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaEEDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaEEDesignPatternsClient.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaEEDesignPatternsClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaEEDesignPatterns_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaEEDesignPatterns_main.iml" group="JavaEEDesignPatterns" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaEEDesignPatterns_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaEEDesignPatterns_test.iml" group="JavaEEDesignPatterns" />
+      <module fileurl="file://$PROJECT_DIR$/JeeDesignPatternsClient2/JeeDesignPatternsClient2.iml" filepath="$PROJECT_DIR$/JeeDesignPatternsClient2/JeeDesignPatternsClient2.iml" />
     </modules>
   </component>
 </project>
